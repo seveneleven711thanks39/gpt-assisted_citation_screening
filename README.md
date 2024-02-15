@@ -1,4 +1,4 @@
-# Excel Data Processing and GPT Integration
+# Large language model-assisted citation screening
 
 This project demonstrates how to load data from an Excel file, generate screening texts based on specific criteria, and integrate with OpenAI's GPT-4 API for automated ciation screening.
 
@@ -6,7 +6,7 @@ This project demonstrates how to load data from an Excel file, generate screenin
 
 - Data loading and processing with Pandas and Openpyxl.
 - Text generation based on predefined criteria.
-- Integration with OpenAI's GPT-4 API for automated decision making.
+- Integration with OpenAI's GPT-4 API for automated citation screening.
 
 ## Prerequisites
 
