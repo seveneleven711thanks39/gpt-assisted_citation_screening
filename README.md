@@ -1,6 +1,6 @@
 # Excel Data Processing and GPT Integration
 
-This project demonstrates how to load data from an Excel file, generate screening texts based on specific criteria, and integrate with OpenAI's GPT-4 API for automated text processing.
+This project demonstrates how to load data from an Excel file, generate screening texts based on specific criteria, and integrate with OpenAI's GPT-4 API for automated ciation screening.
 
 ## Features
 
